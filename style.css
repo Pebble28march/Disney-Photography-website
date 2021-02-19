@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+#cv {
+    width: 100px;
+    border: 10px solid black;
+    border-style: double;
+    border-radius: 100%;
+    background-color: cornsilk;
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+    font-family: fantasy;
+}
+
+#gv {
+    width: 100px;
+    height: 150px;
+    border: 10px solid black;
+    border-style: double;
+    background-color: cornsilk;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: darkblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+    background-color: chartreuse;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: crimson;
+}
+
+#myCarousel {
+    background-color: cadetblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.Carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
